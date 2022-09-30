@@ -3,7 +3,8 @@
 Used the Java17 features of Sealed, Non Sealed and Permits in Interface & Class
 Used the Java17 feature of Pattern matching Switch statement
 
-1. Done an sealed interface of LivingBeing and sealed abstract class of Vertebrate and NonVertebrate
+1. Done an sealed interface of LivingBeing
+2. Done abstract sealed classes of Vertebrate and NonVertebrate implements LivingBeing
 2. Done a final class of Insect extends from NonVertebrate
 3. Done a final class of Human extends from Vertebrate
 4. Done nonsealed classes of Bird and Animal extends from Vertebrate
