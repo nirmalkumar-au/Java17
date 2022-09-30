@@ -1,7 +1,6 @@
 # Java17
 
-Used the Java17 features of Sealed, Non Sealed and Permits in Interface & Class
-Used the Java17 feature of Pattern matching Switch statement
+Used the Java17 features of Sealed, Non Sealed and Permits in Interface & Class, as well as Pattern matching Switch statement
 
 1. Done an sealed interface of LivingBeing
 2. Done abstract sealed classes of Vertebrate and NonVertebrate implements LivingBeing
